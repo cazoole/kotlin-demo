@@ -1,4 +1,5 @@
-import java.nio.DoubleBuffer
+import CurryFunction.DoubleUnaryOp
+import CurryFunction.IntUnaryOp
 import kotlin.math.sin
 
 /**
